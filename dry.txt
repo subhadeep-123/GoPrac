@@ -1,0 +1,2 @@
+defer runs even if the function panics
+panics ceases the programs execution, it is like raise in python
